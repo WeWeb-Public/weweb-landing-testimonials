@@ -1,7 +1,7 @@
 {
   "name": "template",
   "background": {
-    "uniqueId": 523249420,
+    "uniqueId": 7614986094,
     "wwVersion": 3,
     "content": {
       "type": "ww-image",
@@ -83,14 +83,14 @@
     {
       "uniqueId": 1778187766,
       "logo": {
-        "uniqueId": 6905487289,
+        "uniqueId": 15886256290,
         "wwVersion": 3,
         "content": {
           "type": "ww-row",
           "data": {
             "wwObjects": [
               {
-                "uniqueId": 7694414655,
+                "uniqueId": 11496204057,
                 "wwVersion": 3,
                 "content": {
                   "type": "ww-image",
@@ -200,7 +200,7 @@
         "anim": {}
       },
       "title": {
-        "uniqueId": 3884658305,
+        "uniqueId": 11709312580,
         "wwVersion": 3,
         "content": {
           "type": "ww-text",
@@ -246,7 +246,7 @@
       },
       "contentList": [
         {
-          "uniqueId": 14454247729,
+          "uniqueId": 9451748620,
           "wwVersion": 3,
           "content": {
             "type": "ww-text",
@@ -292,7 +292,7 @@
         }
       ],
       "display": {
-        "uniqueId": 13275424600,
+        "uniqueId": 5924323954,
         "wwVersion": 3,
         "content": {
           "type": "ww-image",
@@ -374,14 +374,14 @@
     {
       "uniqueId": 9654103794,
       "logo": {
-        "uniqueId": 1751972216,
+        "uniqueId": 12582019776,
         "wwVersion": 3,
         "content": {
           "type": "ww-row",
           "data": {
             "wwObjects": [
               {
-                "uniqueId": 14746977912,
+                "uniqueId": 4651028975,
                 "wwVersion": 3,
                 "content": {
                   "type": "ww-image",
@@ -491,7 +491,7 @@
         "anim": {}
       },
       "title": {
-        "uniqueId": 2964159015,
+        "uniqueId": 11637343544,
         "wwVersion": 3,
         "content": {
           "type": "ww-text",
@@ -537,7 +537,7 @@
       },
       "contentList": [
         {
-          "uniqueId": 1461633863,
+          "uniqueId": 15570373319,
           "wwVersion": 3,
           "content": {
             "type": "ww-text",
@@ -583,7 +583,7 @@
         }
       ],
       "display": {
-        "uniqueId": 3346742140,
+        "uniqueId": 6529698055,
         "wwVersion": 3,
         "content": {
           "type": "ww-image",
@@ -665,14 +665,14 @@
     {
       "uniqueId": 15130684412,
       "logo": {
-        "uniqueId": 4676673556,
+        "uniqueId": 15311453432,
         "wwVersion": 3,
         "content": {
           "type": "ww-row",
           "data": {
             "wwObjects": [
               {
-                "uniqueId": 8057725448,
+                "uniqueId": 10659685597,
                 "wwVersion": 3,
                 "content": {
                   "type": "ww-image",
@@ -782,7 +782,7 @@
         "anim": {}
       },
       "title": {
-        "uniqueId": 4078797713,
+        "uniqueId": 7157050077,
         "wwVersion": 3,
         "content": {
           "type": "ww-text",
@@ -828,7 +828,7 @@
       },
       "contentList": [
         {
-          "uniqueId": 3695336363,
+          "uniqueId": 8753241855,
           "wwVersion": 3,
           "content": {
             "type": "ww-text",
@@ -874,7 +874,7 @@
         }
       ],
       "display": {
-        "uniqueId": 10971483855,
+        "uniqueId": 7314424696,
         "wwVersion": 3,
         "content": {
           "type": "ww-image",
@@ -955,7 +955,7 @@
     }
   ],
   "rightBackground": {
-    "uniqueId": 3169853778,
+    "uniqueId": 142473045,
     "wwVersion": 3,
     "content": {
       "type": "ww-image",
@@ -1037,14 +1037,14 @@
     {
       "uniqueId": 14635853361,
       "text": {
-        "uniqueId": 15661522035,
+        "uniqueId": 322424113,
         "wwVersion": 3,
         "content": {
           "type": "ww-text",
           "data": {
             "text": {
               "fr": "Nouveau texte",
-              "en": "<p style=\"text-align: center;\">‘’WeWeb helped us launch 1 products. Being able to jump in the same file with someone fills the gap of not being able to gather in person.’’</p>"
+              "en": "<p style=\"text-align: center;\">‘‘WeWeb helped us launch 1 products. Being able to jump in the same file with someone fills the gap of not being able to gather in person.’’</p>"
             },
             "tag": "div",
             "align": "",
@@ -1082,7 +1082,7 @@
         "anim": {}
       },
       "logo": {
-        "uniqueId": 11461800192,
+        "uniqueId": 8019404955,
         "wwVersion": 3,
         "content": {
           "type": "ww-image",
@@ -1162,13 +1162,14 @@
       },
       "roleContent": [
         {
-          "uniqueId": 6653879974,
+          "uniqueId": 12767347161,
           "wwVersion": 3,
           "content": {
             "type": "ww-text",
             "data": {
               "text": {
-                "fr": "Nouveau texte"
+                "fr": "Nouveau texte",
+                "en": "<p>Anaïs, CEO at GitHub</p>"
               },
               "tag": "div",
               "align": "",
@@ -1206,13 +1207,14 @@
           "anim": {}
         },
         {
-          "uniqueId": 8870451475,
+          "uniqueId": 278485975,
           "wwVersion": 3,
           "content": {
             "type": "ww-text",
             "data": {
               "text": {
-                "fr": "Nouveau texte"
+                "fr": "Nouveau texte",
+                "en": "<p><strong style=\"color: rgb(224, 42, 77);\"> Developers team</strong></p>"
               },
               "tag": "div",
               "align": "",
@@ -1254,14 +1256,14 @@
     {
       "uniqueId": 7069614314,
       "text": {
-        "uniqueId": 15174463102,
+        "uniqueId": 4577957482,
         "wwVersion": 3,
         "content": {
           "type": "ww-text",
           "data": {
             "text": {
               "fr": "Nouveau texte",
-              "en": "<p style=\"text-align: center;\">‘’WeWeb helped us launch 2 products. Being able to jump in the same file with someone fills the gap of not being able to gather in pers’’</p>"
+              "en": "<p style=\"text-align: center;\">‘‘WeWeb helped us launch 2 products. Being able to jump in the same file with someone fills the gap of not being able to gather in pers’’</p>"
             },
             "tag": "div",
             "align": "",
@@ -1299,7 +1301,7 @@
         "anim": {}
       },
       "logo": {
-        "uniqueId": 5799369560,
+        "uniqueId": 12705580478,
         "wwVersion": 3,
         "content": {
           "type": "ww-image",
@@ -1379,224 +1381,7 @@
       },
       "roleContent": [
         {
-          "uniqueId": 14590033330,
-          "wwVersion": 3,
-          "content": {
-            "type": "ww-text",
-            "data": {
-              "text": {
-                "fr": "Nouveau texte"
-              },
-              "tag": "div",
-              "align": "",
-              "font": "",
-              "size": "",
-              "color": "",
-              "classes": [],
-              "children": [],
-              "fontStyle": ""
-            }
-          },
-          "link": {
-            "type": "none",
-            "data": {}
-          },
-          "ratio": -1,
-          "paddings": {
-            "xs": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 0
-            },
-            "md": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 0
-            }
-          },
-          "hidden": false,
-          "tags": [],
-          "children": {},
-          "data": {},
-          "anim": {}
-        },
-        {
-          "uniqueId": 11554646852,
-          "wwVersion": 3,
-          "content": {
-            "type": "ww-text",
-            "data": {
-              "text": {
-                "fr": "Nouveau texte"
-              },
-              "tag": "div",
-              "align": "",
-              "font": "",
-              "size": "",
-              "color": "",
-              "classes": [],
-              "children": [],
-              "fontStyle": ""
-            }
-          },
-          "link": {
-            "type": "none",
-            "data": {}
-          },
-          "ratio": -1,
-          "paddings": {
-            "xs": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 0
-            },
-            "md": {
-              "top": 0,
-              "left": 0,
-              "right": 0,
-              "bottom": 0
-            }
-          },
-          "hidden": false,
-          "tags": [],
-          "children": {},
-          "data": {},
-          "anim": {}
-        }
-      ]
-    },
-    {
-      "uniqueId": 6838331791,
-      "text": {
-        "uniqueId": 12345918577,
-        "wwVersion": 3,
-        "content": {
-          "type": "ww-text",
-          "data": {
-            "text": {
-              "fr": "Nouveau texte",
-              "en": "<p style=\"text-align: center;\">‘’ 3 WeWeb helped us launch products. Being able to jump in the same file with someone fills’</p>"
-            },
-            "tag": "div",
-            "align": "",
-            "font": "",
-            "size": "",
-            "color": "",
-            "classes": [],
-            "children": [],
-            "fontStyle": ""
-          }
-        },
-        "link": {
-          "type": "none",
-          "data": {}
-        },
-        "ratio": -1,
-        "paddings": {
-          "xs": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          },
-          "md": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          }
-        },
-        "hidden": false,
-        "tags": [],
-        "children": {},
-        "data": {},
-        "anim": {}
-      },
-      "logo": {
-        "uniqueId": 14535856727,
-        "wwVersion": 3,
-        "content": {
-          "type": "ww-image",
-          "data": {
-            "url": "https://cdn.weweb.app/designs/362/sections/github.svg?v=1590478584504",
-            "twicUrl": "https://cdn.weweb.app/public/images/no_image_selected.png",
-            "alt": "",
-            "position": {
-              "x": 0,
-              "y": 0
-            },
-            "pos": {},
-            "zoom": 0.66650390625,
-            "style": {
-              "borderRadius": 0,
-              "borderWidth": 0,
-              "borderColor": null,
-              "borderStyle": null,
-              "overlay": null,
-              "filter": null,
-              "boxShadow": {
-                "x": 0,
-                "y": 0,
-                "b": 0,
-                "s": 0,
-                "c": ""
-              }
-            },
-            "animation": {
-              "duration": 0,
-              "delay": 0,
-              "fn": null,
-              "opacity": 1,
-              "scale": 1,
-              "translateX": 0,
-              "translateY": 0,
-              "rotate": 0
-            },
-            "imgSize": {
-              "w": 1920,
-              "h": 1080
-            },
-            "hover": {
-              "name": "",
-              "options": {}
-            },
-            "focusPoint": [
-              50,
-              50
-            ]
-          }
-        },
-        "link": {
-          "type": "none",
-          "data": {}
-        },
-        "ratio": -1,
-        "paddings": {
-          "xs": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          },
-          "md": {
-            "top": 0,
-            "left": 0,
-            "right": 0,
-            "bottom": 0
-          }
-        },
-        "hidden": false,
-        "tags": [],
-        "children": {},
-        "data": {},
-        "anim": {}
-      },
-      "roleContent": [
-        {
-          "uniqueId": 377530673,
+          "uniqueId": 1010358482,
           "wwVersion": 3,
           "content": {
             "type": "ww-text",
@@ -1641,7 +1426,226 @@
           "anim": {}
         },
         {
-          "uniqueId": 2540964110,
+          "uniqueId": 7072111795,
+          "wwVersion": 3,
+          "content": {
+            "type": "ww-text",
+            "data": {
+              "text": {
+                "fr": "Nouveau texte",
+                "en": "<p>Nouveau texte</p>"
+              },
+              "tag": "div",
+              "align": "",
+              "font": "",
+              "size": "",
+              "color": "",
+              "classes": [],
+              "children": [],
+              "fontStyle": ""
+            }
+          },
+          "link": {
+            "type": "none",
+            "data": {}
+          },
+          "ratio": -1,
+          "paddings": {
+            "xs": {
+              "top": 0,
+              "left": 0,
+              "right": 0,
+              "bottom": 0
+            },
+            "md": {
+              "top": 0,
+              "left": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          },
+          "hidden": false,
+          "tags": [],
+          "children": {},
+          "data": {},
+          "anim": {}
+        }
+      ]
+    },
+    {
+      "uniqueId": 6838331791,
+      "text": {
+        "uniqueId": 12310961359,
+        "wwVersion": 3,
+        "content": {
+          "type": "ww-text",
+          "data": {
+            "text": {
+              "fr": "Nouveau texte",
+              "en": "<p style=\"text-align: center;\">‘‘WeWeb helped us launch 3 products. Being able to jump in the same file with someone fills’’</p>"
+            },
+            "tag": "div",
+            "align": "",
+            "font": "",
+            "size": "",
+            "color": "",
+            "classes": [],
+            "children": [],
+            "fontStyle": ""
+          }
+        },
+        "link": {
+          "type": "none",
+          "data": {}
+        },
+        "ratio": -1,
+        "paddings": {
+          "xs": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "md": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "hidden": false,
+        "tags": [],
+        "children": {},
+        "data": {},
+        "anim": {}
+      },
+      "logo": {
+        "uniqueId": 3184599827,
+        "wwVersion": 3,
+        "content": {
+          "type": "ww-image",
+          "data": {
+            "url": "https://cdn.weweb.app/designs/362/sections/github.svg?v=1590478584504",
+            "twicUrl": "https://cdn.weweb.app/public/images/no_image_selected.png",
+            "alt": "",
+            "position": {
+              "x": 0,
+              "y": 0
+            },
+            "pos": {},
+            "zoom": 0.66650390625,
+            "style": {
+              "borderRadius": 0,
+              "borderWidth": 0,
+              "borderColor": null,
+              "borderStyle": null,
+              "overlay": null,
+              "filter": null,
+              "boxShadow": {
+                "x": 0,
+                "y": 0,
+                "b": 0,
+                "s": 0,
+                "c": ""
+              }
+            },
+            "animation": {
+              "duration": 0,
+              "delay": 0,
+              "fn": null,
+              "opacity": 1,
+              "scale": 1,
+              "translateX": 0,
+              "translateY": 0,
+              "rotate": 0
+            },
+            "imgSize": {
+              "w": 1920,
+              "h": 1080
+            },
+            "hover": {
+              "name": "",
+              "options": {}
+            },
+            "focusPoint": [
+              50,
+              50
+            ]
+          }
+        },
+        "link": {
+          "type": "none",
+          "data": {}
+        },
+        "ratio": -1,
+        "paddings": {
+          "xs": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "md": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        "hidden": false,
+        "tags": [],
+        "children": {},
+        "data": {},
+        "anim": {}
+      },
+      "roleContent": [
+        {
+          "uniqueId": 2122842969,
+          "wwVersion": 3,
+          "content": {
+            "type": "ww-text",
+            "data": {
+              "text": {
+                "fr": "Nouveau texte",
+                "en": "<p>Nouveau texte</p>"
+              },
+              "tag": "div",
+              "align": "",
+              "font": "",
+              "size": "",
+              "color": "",
+              "classes": [],
+              "children": [],
+              "fontStyle": ""
+            }
+          },
+          "link": {
+            "type": "none",
+            "data": {}
+          },
+          "ratio": -1,
+          "paddings": {
+            "xs": {
+              "top": 0,
+              "left": 0,
+              "right": 0,
+              "bottom": 0
+            },
+            "md": {
+              "top": 0,
+              "left": 0,
+              "right": 0,
+              "bottom": 0
+            }
+          },
+          "hidden": false,
+          "tags": [],
+          "children": {},
+          "data": {},
+          "anim": {}
+        },
+        {
+          "uniqueId": 1304975424,
           "wwVersion": 3,
           "content": {
             "type": "ww-text",
