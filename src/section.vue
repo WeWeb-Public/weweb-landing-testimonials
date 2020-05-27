@@ -220,7 +220,7 @@
             addTestimonialAt(index) {
                 const {testimonials} = this.section.data
                 const head = testimonials.slice(0, index)
-                const tail = index === 0 ? testimonials : testimonials.slice(index + 1)
+                const tail = index === 0 ? testimonials : testimonials.slice(index)
                 this.section.data.testimonials = [...head, this.createTestimonial(), ...tail]
             },
             removeTestimonial(testimonial) {
