@@ -63,7 +63,7 @@
         </li>
       </ul>
       <ul class="testimonial-navigator">
-        <li v-for="(testimonial, index) in section.data.testimonials"
+        <li v-for="(testimonial) in section.data.testimonials"
             :key="testimonial.uniqueId"
             @click="toggleTestimonial(testimonial)"
         >
@@ -343,7 +343,6 @@
       position: absolute;
       top: 0;
       width: 100%;
-      min-height: 200px;
       opacity: 0;
       z-index: 0;
 
@@ -362,17 +361,21 @@
     }
 
     &-text {
+      height: 80px;
       font-size: 24px;
       line-height: 1;
       text-align: center;
-      margin-bottom: 40px;
+      margin-bottom: 64px;
 
       @media (min-width: 768px) {
+        margin-bottom: 40px;
+        height: 100px;
         font-size: 24px;
         line-height: 28px;
       }
 
       @media (min-width: 1024px) {
+        height: 150px;
         font-size: 36px;
         line-height: 42px;
       }
