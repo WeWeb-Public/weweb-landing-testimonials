@@ -482,7 +482,6 @@
           rx: 0;
 
           &:hover {
-            transition: all 250ms;
             fill: var(--color-yellow);
           }
         }
