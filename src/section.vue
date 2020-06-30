@@ -353,7 +353,7 @@
     color: var(--color-true-black);
 
     @media (min-width: 768px) {
-      width: 768px;
+      width: 80%;
       padding: 192px 32px 0 32px;
     }
     @media (min-width: 1024px) {
