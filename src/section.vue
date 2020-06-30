@@ -344,7 +344,7 @@
     flex-direction: column;
     align-items: center;
     width: 100%;
-    height: 734px;
+    height: auto;
     margin: auto;
     padding: 100px 24px 0 24px;
     font-family: Work Sans;
@@ -357,6 +357,7 @@
       padding: 192px 32px 0 32px;
     }
     @media (min-width: 1024px) {
+      height: 734px;
       width: 768px;
     }
   }
